@@ -1,0 +1,8 @@
+{
+  "name": "Gmail Subject Writer",
+  "description": "Analyzes your sent emails to learn your personal subject line style and generates tailored suggestions for your drafts using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
